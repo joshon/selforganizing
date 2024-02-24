@@ -1,6 +1,8 @@
 # selforganizing
 Nodes placed randomly on the screen organize themselves into circles.
 
+![circles](https://github.com/joshon/selforganizing/assets/1111339/f1fa55d5-a412-47cd-a1da-fb19121fac7d)
+
 ## Get started
 - ``npm i``
 - ``npm start``
